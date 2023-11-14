@@ -1,4 +1,4 @@
-<img src="https://github.com/Signor1/gym-nex/blob/bc543fd5d43498e288322dc8394280cfe7863724/GymNEx.png"/>
+<p align="center"><a href="#"><img width="auto" margin-left="50%" height="400px" src="https://pbs.twimg.com/media/F-5KKALXUAAsOWB?format=jpg&name=4096x4096" height="175px"/></a></p>
 
 # Gym Landing Page - React and TypeScript
 
